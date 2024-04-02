@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="logoutbuttontext">लॉगआउट</string>
+    <string name="profilemannkhamar">एथन पायने</string>
+    <string name="profilesettings">सेटिंग्स</string>
+    <string name="profilepersonalinfo">व्यक्तिगत जानकारी</string>
+    <string name="profilepayments">भुगतान और भुगतान</string>
+    <string name="profileaccessibility">सुलभता</string>
+    <string name="profileprivacy">गोपनीयता</string>
+    <string name="profilemadeby">मन खमार, चिराग खत्री, नील भावसार द्वारा निर्मित</string>
+    <string name="profileloginandsecurity">लॉगिन और सुरक्षा</string>
+    <string name="getstartedwelcome">स्टेकेशन में आपका स्वागत है !!</string>
+    <string name="getstarteddesc">दुनिया भर में अद्वितीय प्रवास की खोज करें। सुरक्षित बुकिंग, मेजबानों के साथ सीधा संचार, पारदर्शी समीक्षा। अविस्मरणीय यात्रा अनुभवों के लिए आपका विश्वसनीय साथी</string>
+    <string name="getstartedtitle">आरंभ</string>
+    <string name="loginusernamehint">उपयोगकर्ता नाम (ईमेल)</string>
+    <string name="loginhintpassword">पासवर्ड</string>
+    <string name="loginsignup">का उपयोग करके साइनअप करें</string>
+    <string name="homewelcomeback">पुनः स्वागत है,</string>
+    <string name="homemannkhamar">एथन पायने</string>
+    <string name="homediscover">रहने के लिए नए स्थानों की खोज करें!</string>
+    <string name="homesearch">खोज स्थान..</string>
+    <string name="homepopular">लोकप्रिय</string>
+    <string name="homemore">अधिक</string>
+    <string name="menuhome">को</string>
+    <string name="menuwishlist">विशलिस्ट</string>
+    <string name="menutrips">यात्राएं</string>
+    <string name="menuinbox">इनबॉक्स</string>
+    <string name="loginbutton">लॉगिन</string>
+</resources>

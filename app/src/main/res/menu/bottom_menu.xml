@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+
+        android:id="@+id/homebutton"
+        android:title="@string/menuhome"
+        android:icon="@drawable/newhomeicon"
+        />
+
+    <item
+
+        android:id="@+id/wishlistbutton"
+        android:title="@string/menuwishlist"
+        android:icon="@drawable/like"
+        />
+
+
+    <item
+
+        android:id="@+id/tripbutton"
+        android:title="@string/menutrips"
+        android:icon="@drawable/newtripicon"
+
+        />
+
+
+    <item
+
+        android:id="@+id/inboxbutton"
+        android:title="@string/menuinbox"
+        android:icon="@drawable/messageicon"
+
+        />
+
+<!--    <item-->
+
+<!--        android:id="@+id/profilebutton"-->
+<!--        android:title="Profile"-->
+<!--        android:icon="@drawable/profileicon"-->
+<!--        />-->
+
+
+</menu>

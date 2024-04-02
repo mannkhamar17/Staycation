@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Staycation</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="logoutbuttontext">LOGOUT</string>
+    <string name="profilemannkhamar">Ethan Payne</string>
+    <string name="profilesettings">Settings</string>
+    <string name="profilepersonalinfo">Personal Information</string>
+    <string name="profileloginandsecurity">Login and Security</string>
+    <string name="profilepayments">Payments and Payouts</string>
+    <string name="profileaccessibility">Accessibility</string>
+    <string name="profileprivacy">Privacy</string>
+    <string name="profilemadeby">Made By Mann Khamar, Chirag Khatri, Neel Bhavsar</string>
+    <string name="getstartedwelcome">Welcome to Staycation !!</string>
+    <string name="getstarteddesc">Discover unique stays worldwide. Secure bookings, Direct communication with hosts, transparent reviews. YOUR TRUSTED COMPANION FOR UNFORGETTABLE TRAVEL EXPERIENCES</string>
+    <string name="getstartedtitle">GET STARTED</string>
+    <string name="loginusernamehint">Username (Email)</string>
+    <string name="loginhintpassword">Password</string>
+    <string name="loginsignup">Signup Using</string>
+    <string name="homewelcomeback">Welcome back,</string>
+    <string name="homemannkhamar">Ethan Payne</string>
+    <string name="homediscover">Discover new Places to Stay!</string>
+    <string name="homesearch">Search Location..</string>
+    <string name="homepopular">Popular</string>
+    <string name="homemore">More</string>
+    <string name="menuhome">Home</string>
+    <string name="menuwishlist">Wishlist</string>
+    <string name="menutrips">Trips</string>
+    <string name="menuinbox">Inbox</string>
+    <string name="loginbutton">Login</string>
+</resources>
